@@ -5,7 +5,7 @@ Requirement:
 1. Clone the repo from GitHub 
 
 ```
-Git clone:
+git clone https://github.com/Fazila19/backend-api-testing.git
 ```
 2. Install the below dependencies 
 ```
